@@ -11,6 +11,20 @@ body {
   font-weight: bold;
 }
 
+p {
+  font-size: 14px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+
+a .font-black {
+  color: #000;
+}
+
 #about {
   margin: 60px auto;
   max-width: 400px;
@@ -55,4 +69,21 @@ body {
 
 .ms-10 {
   margin-left: 15px;
+}
+
+#project {
+  margin: 48px auto;
+  width: 80%;
+}
+
+#project h2 {
+  text-align: center;
+}
+
+#project .card img {
+  
+}
+
+#project .card-title {
+  font-weight: bold;
 }
