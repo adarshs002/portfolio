@@ -4,7 +4,7 @@ This portfolio is a small project using HTML / CSS and Bootstrap. I will be usin
 
 [Live Heroku deployment](https://portfolio-adarshs.herokuapp.com/)
 
-(![Screenshot 2021-09-30 at 1 39 49 PM](https://user-images.githubusercontent.com/91319621/135413549-842264fa-b6df-451c-9056-2cf07daa592e.png)
+![Screenshot 2021-09-30 at 1 39 49 PM](https://user-images.githubusercontent.com/91319621/135413549-842264fa-b6df-451c-9056-2cf07daa592e.png)
 
 ## Technologies used
 
